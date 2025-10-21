@@ -8,5 +8,9 @@
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
 | Miguel Bispo Viana | @miguel11xp |
+| Rauan Freitas      | @Rauan-7    |
+| Antonio Vitório | @antoniov7 |
+| David Lucas | @DavidLuccass |
+| Ian Luis | @ianzinho23 |
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
