@@ -14,3 +14,7 @@
 | Ian Luis | @ianzinho23 |
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
+
+## Objetivos
+
+-  Esse repositório visa compreender, aprender, praticar diversas habilidades que contém na plataforma do GitHub. 
