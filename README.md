@@ -12,6 +12,8 @@
 - [Materiais de Apoio](#materiais-de-apoio)
 
 ## Colaboradores 
+<details>
+  <summary>🔹 **Clique para ver os colaboradores!** 🔹</summary>
 
 | Nome | @ |
 | --- | --- |
@@ -31,6 +33,8 @@
 | Jeferson Pereira Oliveira | @jefersonibfe |
 | Raiele Silva | @raielesilva |
 | Nicole Menezes | @nclmenezes |
+
+</details>
 
 
 ## Tecnologias Utilizadas
