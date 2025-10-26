@@ -18,7 +18,12 @@
 | Mateus Farias | @mateusfariasff |
 | Luan mascarenhas | @luanmascarenhas26 |
 | Caio Guilherme | @Caioguilherme94 |
-| Viviane Campos| @vivianejcampos |
+| Viviane Campos | @vivianejcampos |
+| Jeferson Pereira Oliveira | @jefersonibfe |
+
+
+
+
 
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
