@@ -33,7 +33,6 @@
 | Nicole Menezes | @nclmenezes |
 
 
-
 ## Tecnologias Utilizadas
 
 | Tecnologia | Finalidade |
@@ -62,7 +61,3 @@
 
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
-
-## Objetivos
-
--  Esse repositório visa compreender, aprender, praticar diversas habilidades que contém na plataforma do GitHub.
