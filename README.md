@@ -3,6 +3,8 @@
 <p>Repositório de aprendizados e projetos da Turma 2025 NextCoders.
 </div>
 
+## Objetivos
+- Esse repositório visa compreender, aprender, praticar diversas habilidades que contén na plataforma do GitHub.
 
 ## Sumário
 - [Colaboradores](#colaboradores)
